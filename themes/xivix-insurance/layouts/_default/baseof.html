@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}">{{ end }}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"{{ if .IsPage }}Article{{ else }}WebSite{{ end }}","name":"{{ .Title }}","url":"{{ .Permalink }}"{{ if .IsPage }},"author":{"@type":"Person","name":"{{ .Site.Params.author }}"},"datePublished":"{{ .Date.Format "2006-01-02" }}","dateModified":"{{ .Lastmod.Format "2006-01-02" }}"{{ end }}}
+</script>
+{{ partial "head.html" . }}
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+body{font-family:'Pretendard',-apple-system,BlinkMacSystemFont,sans-serif}
+.prose h2{font-size:1.5rem;font-weight:800;margin:2rem 0 1rem;color:#1a1a2e;border-left:4px solid #e74c3c;padding-left:12px}
+.prose h3{font-size:1.2rem;font-weight:700;margin:1.5rem 0 .75rem;color:#16213e}
+.prose p{line-height:1.9;margin-bottom:1.2rem;color:#2d3436}
+.prose table{width:100%;border-collapse:collapse;margin:1.5rem 0;box-shadow:0 2px 8px rgba(0,0,0,.08);border-radius:8px;overflow:hidden}
+.prose th{background:#e74c3c;color:white;padding:.75rem;font-weight:700;text-align:center}
+.prose td{padding:.65rem .75rem;border-bottom:1px solid #f0f0f0;text-align:center}
+.prose tr:hover{background:#fff5f5}
+.prose ul,.prose ol{margin-left:1.5rem;margin-bottom:1.2rem}
+.prose li{margin-bottom:.5rem;line-height:1.8}
+.prose blockquote{border-left:4px solid #e74c3c;background:#fff5f5;padding:1rem 1.5rem;margin:1.5rem 0;border-radius:0 8px 8px 0}
+.prose strong{color:#c0392b}
+.card-hover{transition:all .3s;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+.card-hover:hover{transform:translateY(-4px);box-shadow:0 12px 32px rgba(231,76,60,.15)}
+</style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+{{ partial "header.html" . }}
+<main class="max-w-5xl mx-auto px-4 py-6">
+{{ block "main" . }}{{ end }}
+</main>
+{{ partial "footer.html" . }}
+</body>
+</html>

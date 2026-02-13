@@ -1,0 +1,51 @@
+baseURL = "https://insurance-compare-kr.pages.dev/"
+languageCode = "ko-kr"
+title = "보험비교 전문가 — 2026 보험 완전정복"
+theme = "xivix-insurance"
+
+[params]
+  description = "보험 전문가가 알려주는 진짜 보험 비교. 자동차보험, 실손보험, 연금보험 솔직 분석."
+  author = "보험비교 전문가"
+  keywords = ["보험비교", "자동차보험", "실손보험", "연금보험", "보험추천"]
+  googleAnalytics = ""
+  adsenseId = ""
+
+[menu]
+  [[menu.main]]
+    name = "🏠 홈"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "🚗 자동차보험"
+    url = "/categories/자동차보험/"
+    weight = 2
+  [[menu.main]]
+    name = "🏥 실손보험"
+    url = "/categories/실손보험/"
+    weight = 3
+  [[menu.main]]
+    name = "💰 연금보험"
+    url = "/categories/연금보험/"
+    weight = 4
+  [[menu.main]]
+    name = "📊 보험비교"
+    url = "/categories/보험비교/"
+    weight = 5
+  [[menu.main]]
+    name = "💡 보험꿀팁"
+    url = "/categories/보험꿀팁/"
+    weight = 6
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
