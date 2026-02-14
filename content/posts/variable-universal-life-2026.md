@@ -5,6 +5,7 @@ description: "변액유니버셜보험의 장단점을 보험CEO가 솔직하게
 categories: ["보험비교"]
 tags: ["변액보험", "변액유니버셜", "투자형보험", "보험수익률"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/variable-universal-life-2026.webp"
 ---
 
 ## 변액유니버셜보험이란?

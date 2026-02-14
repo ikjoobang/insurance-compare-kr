@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["화재보험", "주택보험", "아파트보험", "재물보험"]
 keywords: ["화재보험 비교 2026", "아파트 화재보험", "주택 화재보험 추천"]
 author: "보험비교 전문가"
+image: "/images/posts/fire-insurance-homeowner-2026.webp"
 toc: true
 ---
 

@@ -8,6 +8,7 @@ categories: ["자동차보험"]
 tags: ["전기차보험", "전기차", "테슬라보험", "EV보험"]
 keywords: ["전기차 보험 비교 2026", "전기차 보험료", "테슬라 보험"]
 author: "보험비교 전문가"
+image: "/images/posts/electric-car-insurance-2026.webp"
 toc: true
 ---
 

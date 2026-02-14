@@ -5,6 +5,7 @@ description: "4세대 실손보험 전환 여부를 보험CEO가 분석합니다
 categories: ["실손보험"]
 tags: ["4세대실손", "실손보험전환", "실손보험비교", "의료보험"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/4th-gen-real-loss-insurance-2026.webp"
 ---
 
 ## 4세대 실손보험이란?

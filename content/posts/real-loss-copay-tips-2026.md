@@ -4,6 +4,7 @@ date: 2026-02-14T11:00:00+09:00
 description: "실손보험 자기부담금이 부담된다면? 합법적으로 실질 의료비를 줄이는 5가지 방법을 알려드립니다."
 categories: ["실손보험"]
 tags: ["실손보험자기부담금", "의료비절약", "실손보험활용", "비급여절약"]
+image: "/images/posts/real-loss-copay-tips-2026.webp"
 toc: true
 ---
 

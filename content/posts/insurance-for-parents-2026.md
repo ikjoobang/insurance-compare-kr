@@ -5,6 +5,7 @@ description: "60~70대 부모님께 필요한 보험을 보험CEO가 분석합�
 categories: ["보험꿀팁"]
 tags: ["부모님보험", "효도보험", "고령자보험", "실버보험"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/insurance-for-parents-2026.webp"
 ---
 
 ## 60~70대 부모님, 어떤 보험이 필요할까?

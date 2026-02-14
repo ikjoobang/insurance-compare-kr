@@ -5,6 +5,7 @@ description: "보험금 청구 방법을 단계별로 안내합니다. 모바일
 categories: ["보험꿀팁"]
 tags: ["보험금청구", "보험금지급", "보험분쟁", "보험청구방법"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/insurance-claim-process-2026.webp"
 ---
 
 ## 보험금 청구 절차 4단계

@@ -8,6 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["프리랜서보험", "자영업자보험", "1인사업자보험", "소득보장보험"]
 keywords: ["프리랜서 보험 추천", "자영업자 보험 설계", "1인사업자 보험"]
 author: "보험비교 전문가"
+image: "/images/posts/insurance-for-freelancers-2026.webp"
 toc: true
 ---
 

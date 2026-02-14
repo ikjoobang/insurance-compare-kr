@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["어린이보험", "태아보험", "자녀보험", "어린이보험비교"]
 keywords: ["어린이보험 비교 2026", "태아보험 추천", "자녀보험 가입시기"]
 author: "보험비교 전문가"
+image: "/images/posts/child-insurance-comparison-2026.webp"
 toc: true
 ---
 

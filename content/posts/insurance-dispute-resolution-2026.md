@@ -4,6 +4,7 @@ date: 2026-02-14T10:50:00+09:00
 description: "보험금 청구가 거절되었을 때 어떻게 해야 할까? 보험 분쟁 해결 4단계 절차와 실전 팁을 안내합니다."
 categories: ["보험꿀팁"]
 tags: ["보험금분쟁", "보험금거절", "보험민원", "금융감독원"]
+image: "/images/posts/insurance-dispute-resolution-2026.webp"
 toc: true
 ---
 

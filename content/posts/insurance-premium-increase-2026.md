@@ -4,6 +4,7 @@ date: 2026-02-14T10:00:00+09:00
 description: "갱신형 보험료가 크게 올랐다면? 보험료 인상에 대응하는 5가지 실전 전략을 알려드립니다."
 categories: ["보험꿀팁"]
 tags: ["보험료인상", "갱신보험료", "보험료절약", "보험리모델링"]
+image: "/images/posts/insurance-premium-increase-2026.webp"
 toc: true
 ---
 

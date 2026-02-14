@@ -8,6 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험용어", "보험기초", "보험초보", "보험상식"]
 keywords: ["보험 용어 정리", "보험 용어 사전", "보험 초보 가이드"]
 author: "보험비교 전문가"
+image: "/images/posts/insurance-terms-glossary-2026.webp"
 toc: true
 ---
 

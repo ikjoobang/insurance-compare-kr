@@ -8,6 +8,7 @@ categories: ["자동차보험"]
 tags: ["자동차보험비교", "삼성화재", "현대해상", "DB손해보험", "보험료절약"]
 keywords: ["자동차보험 비교", "2026 자동차보험", "자동차보험 싼곳", "보험료 비교"]
 author: "보험비교 전문가"
+image: "/images/posts/2026-car-insurance-comparison.webp"
 toc: true
 ---
 

@@ -8,6 +8,7 @@ categories: ["자동차보험"]
 tags: ["운전자보험", "교통사고", "벌금보험", "운전자보험비교"]
 keywords: ["운전자보험 비교 2026", "운전자보험 필요한가", "운전자보험 추천"]
 author: "보험비교 전문가"
+image: "/images/posts/driver-insurance-comparison-2026.webp"
 toc: true
 ---
 

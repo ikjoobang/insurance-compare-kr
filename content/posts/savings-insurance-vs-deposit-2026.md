@@ -4,6 +4,7 @@ date: 2026-02-14T10:30:00+09:00
 description: "저축보험과 은행 적금, 어떤 것이 더 유리할까? 실질 수익률, 세제 혜택, 유동성을 비교 분석합니다."
 categories: ["보험비교"]
 tags: ["저축보험", "적금비교", "보험vs적금", "재테크보험"]
+image: "/images/posts/savings-insurance-vs-deposit-2026.webp"
 toc: true
 ---
 

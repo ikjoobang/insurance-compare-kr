@@ -4,6 +4,7 @@ date: 2026-02-14T09:50:00+09:00
 description: "임신 준비 중이거나 임신 초기라면 필수로 체크해야 할 태아보험·임산부보험 가입 전략을 정리합니다."
 categories: ["보험비교"]
 tags: ["임산부보험", "태아보험", "출산보험", "임신보험"]
+image: "/images/posts/pregnancy-insurance-2026.webp"
 toc: true
 ---
 

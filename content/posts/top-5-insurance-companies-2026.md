@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["보험사순위", "보험사비교", "보상만족도", "보험추천"]
 keywords: ["보험사 순위 2026", "보험사 비교", "보상 잘 해주는 보험사"]
 author: "보험비교 전문가"
+image: "/images/posts/top-5-insurance-companies-2026.webp"
 toc: true
 ---
 

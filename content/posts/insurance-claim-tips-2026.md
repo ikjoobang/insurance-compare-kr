@@ -8,6 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험금청구", "보험금", "보험금받는법", "보험청구팁"]
 keywords: ["보험금 청구 방법", "보험금 더 받는 법", "보험금 청구 서류"]
 author: "보험비교 전문가"
+image: "/images/posts/insurance-claim-tips-2026.webp"
 toc: true
 ---
 

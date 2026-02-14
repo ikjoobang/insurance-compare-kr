@@ -5,6 +5,7 @@ description: "2026년 연말정산 보험료 세액공제 총정리. 보장성�
 categories: ["보험꿀팁"]
 tags: ["보험세액공제", "연말정산", "보험료공제", "절세전략"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/insurance-tax-deduction-2026.webp"
 ---
 
 ## 2026년 보험료 세액공제 한도

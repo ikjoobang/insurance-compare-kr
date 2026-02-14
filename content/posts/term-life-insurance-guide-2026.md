@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["정기보험", "종신보험", "사망보험", "생명보험비교"]
 keywords: ["정기보험 vs 종신보험", "사망보험 비교 2026", "정기보험 추천"]
 author: "보험비교 전문가"
+image: "/images/posts/term-life-insurance-guide-2026.webp"
 toc: true
 ---
 

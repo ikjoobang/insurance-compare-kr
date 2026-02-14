@@ -5,6 +5,7 @@ description: "산재보험과 상해보험의 차이를 보험CEO가 분석합�
 categories: ["보험비교"]
 tags: ["산재보험", "상해보험", "직장인보험", "업무상재해"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/workplace-injury-insurance-2026.webp"
 ---
 
 ## 산재보험 vs 상해보험 핵심 비교

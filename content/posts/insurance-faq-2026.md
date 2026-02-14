@@ -4,6 +4,7 @@ date: 2026-02-14T11:30:00+09:00
 description: "보험 가입·청구·해지 관련 가장 많이 묻는 질문 20가지를 보험 전문가가 답변합니다."
 categories: ["보험꿀팁"]
 tags: ["보험FAQ", "보험질문", "보험상식", "보험초보"]
+image: "/images/posts/insurance-faq-2026.webp"
 toc: true
 ---
 

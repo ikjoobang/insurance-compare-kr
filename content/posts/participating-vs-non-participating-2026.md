@@ -4,6 +4,7 @@ date: 2026-02-14T10:10:00+09:00
 description: "보험 상품에서 '무배당'과 '유배당'의 차이점, 실제 배당금 수준, 어떤 유형이 유리한지 비교합니다."
 categories: ["보험비교"]
 tags: ["무배당보험", "유배당보험", "배당금보험", "보험선택"]
+image: "/images/posts/participating-vs-non-participating-2026.webp"
 toc: true
 ---
 

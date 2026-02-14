@@ -4,6 +4,7 @@ date: 2026-02-14T09:30:00+09:00
 description: "고혈압, 당뇨, 과거 수술 이력이 있어도 가입 가능한 유병자보험. 2026년 추천 상품과 가입 전략을 안내합니다."
 categories: ["보험비교"]
 tags: ["유병자보험", "간편심사보험", "고혈압보험", "당뇨보험"]
+image: "/images/posts/insurance-for-pre-existing-2026.webp"
 toc: true
 ---
 

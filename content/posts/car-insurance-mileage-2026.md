@@ -5,6 +5,7 @@ description: "2026년 자동차보험 마일리지 특약 할인율을 비교합
 categories: ["자동차보험"]
 tags: ["자동차보험", "마일리지특약", "보험료할인", "자동차보험비교"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/car-insurance-mileage-2026.webp"
 ---
 
 ## 마일리지 특약이란?

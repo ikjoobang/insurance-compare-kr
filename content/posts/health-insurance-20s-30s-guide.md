@@ -8,6 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["20대보험", "30대보험", "건강보험", "보험추천", "사회초년생보험"]
 keywords: ["20대 보험 추천", "30대 보험 필수", "사회초년생 보험"]
 author: "보험비교 전문가"
+image: "/images/posts/health-insurance-20s-30s-guide.webp"
 toc: true
 ---
 

@@ -8,6 +8,7 @@ categories: ["실손보험"]
 tags: ["실손보험", "4세대실손", "실손보험비교", "의료보험"]
 keywords: ["실손보험 비교 2026", "4세대 실손보험", "실손보험 추천"]
 author: "보험비교 전문가"
+image: "/images/posts/2026-real-loss-insurance-guide.webp"
 toc: true
 ---
 

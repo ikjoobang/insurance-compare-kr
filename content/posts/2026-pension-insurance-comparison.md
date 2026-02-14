@@ -8,6 +8,7 @@ categories: ["연금보험"]
 tags: ["연금보험", "연금저축", "변액연금", "노후준비", "세액공제"]
 keywords: ["연금보험 비교 2026", "연금저축 추천", "변액연금 수익률"]
 author: "보험비교 전문가"
+image: "/images/posts/2026-pension-insurance-comparison.webp"
 toc: true
 ---
 

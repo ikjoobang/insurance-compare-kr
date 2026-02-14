@@ -4,6 +4,7 @@ date: 2026-02-14T09:20:00+09:00
 description: "갱신형 보험과 비갱신형 보험, 장기적으로 어떤 것이 더 유리할까? 보험료 시뮬레이션으로 비교합니다."
 categories: ["보험꿀팁"]
 tags: ["갱신형보험", "비갱신형보험", "보험선택", "보험료비교"]
+image: "/images/posts/renewal-vs-non-renewal-2026.webp"
 toc: true
 ---
 

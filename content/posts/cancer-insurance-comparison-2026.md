@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["암보험", "암보험비교", "암진단비", "삼성생명", "한화생명"]
 keywords: ["암보험 비교 2026", "암보험 추천", "암진단금 1억"]
 author: "보험비교 전문가"
+image: "/images/posts/cancer-insurance-comparison-2026.webp"
 toc: true
 ---
 

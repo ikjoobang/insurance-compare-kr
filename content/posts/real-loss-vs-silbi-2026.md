@@ -4,6 +4,7 @@ date: 2026-02-14T09:00:00+09:00
 description: "실비보험과 실손보험, 같은 건가요? 2026년 기준 정확한 차이점과 올바른 가입 방법을 전문가가 정리합니다."
 categories: ["실손보험"]
 tags: ["실비보험", "실손보험", "실손보험차이", "의료비보험"]
+image: "/images/posts/real-loss-vs-silbi-2026.webp"
 toc: true
 ---
 

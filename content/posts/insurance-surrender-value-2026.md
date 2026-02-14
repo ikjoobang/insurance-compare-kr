@@ -4,6 +4,7 @@ date: 2026-02-14T09:10:00+09:00
 description: "보험 해지환급금은 얼마나 돌려받을 수 있을까? 해지 전 반드시 확인해야 할 계산법과 최적 해지 시점을 알려드립니다."
 categories: ["보험꿀팁"]
 tags: ["해지환급금", "보험해지", "보험환급금", "보험해지시기"]
+image: "/images/posts/insurance-surrender-value-2026.webp"
 toc: true
 ---
 

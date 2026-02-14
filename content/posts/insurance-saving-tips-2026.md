@@ -8,6 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험료절약", "보험리모델링", "보험꿀팁", "보험비교"]
 keywords: ["보험료 아끼는 법", "보험 절약", "보험료 절감"]
 author: "보험비교 전문가"
+image: "/images/posts/insurance-saving-tips-2026.webp"
 toc: true
 ---
 

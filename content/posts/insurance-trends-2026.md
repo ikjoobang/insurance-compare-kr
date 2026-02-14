@@ -4,6 +4,7 @@ date: 2026-02-14T10:40:00+09:00
 description: "2026년 보험 시장의 핵심 변화 7가지. 새로운 제도, 상품 트렌드, 소비자가 주목할 포인트를 정리합니다."
 categories: ["보험꿀팁"]
 tags: ["보험트렌드2026", "보험시장변화", "보험제도변경", "보험뉴스"]
+image: "/images/posts/insurance-trends-2026.webp"
 toc: true
 ---
 

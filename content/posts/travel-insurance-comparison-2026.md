@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["여행보험", "해외여행보험", "여행자보험", "여행보험비교"]
 keywords: ["해외여행보험 비교 2026", "여행보험 추천", "해외여행 보험 가격"]
 author: "보험비교 전문가"
+image: "/images/posts/travel-insurance-comparison-2026.webp"
 toc: true
 ---
 

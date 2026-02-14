@@ -8,6 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험사기", "불완전판매", "보험민원", "보험피해"]
 keywords: ["보험 불완전판매", "보험 사기 예방", "보험 피해 사례"]
 author: "보험비교 전문가"
+image: "/images/posts/insurance-scam-warning-2026.webp"
 toc: true
 ---
 

@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["펫보험", "반려동물보험", "강아지보험", "고양이보험"]
 keywords: ["펫보험 비교 2026", "강아지 보험 추천", "반려동물 보험"]
 author: "보험비교 전문가"
+image: "/images/posts/pet-insurance-comparison-2026.webp"
 toc: true
 ---
 

@@ -8,6 +8,7 @@ categories: ["보험비교"]
 tags: ["치아보험", "임플란트보험", "치과보험", "치아보험비교"]
 keywords: ["치아보험 비교 2026", "임플란트 보험", "치아보험 추천"]
 author: "보험비교 전문가"
+image: "/images/posts/dental-insurance-comparison-2026.webp"
 toc: true
 ---
 

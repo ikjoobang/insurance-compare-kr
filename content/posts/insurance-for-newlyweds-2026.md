@@ -8,6 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["신혼부부보험", "결혼보험", "부부보험", "보험리모델링"]
 keywords: ["신혼부부 보험 추천", "결혼 후 보험 정리", "부부 보험 설계"]
 author: "보험비교 전문가"
+image: "/images/posts/insurance-for-newlyweds-2026.webp"
 toc: true
 ---
 

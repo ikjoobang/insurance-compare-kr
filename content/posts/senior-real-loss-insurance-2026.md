@@ -4,6 +4,7 @@ date: 2026-02-14T11:10:00+09:00
 description: "60대에 실손보험 신규 가입이 가능할까? 가입 조건, 보험료, 대안 보험까지 정리합니다."
 categories: ["실손보험"]
 tags: ["60대실손보험", "시니어보험", "고령자실손", "노후의료비"]
+image: "/images/posts/senior-real-loss-insurance-2026.webp"
 toc: true
 ---
 

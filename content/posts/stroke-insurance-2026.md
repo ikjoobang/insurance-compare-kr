@@ -4,6 +4,7 @@ date: 2026-02-14T10:20:00+09:00
 description: "뇌졸중, 뇌출혈 등 뇌혈관질환 보장 보험의 핵심 차이점과 2026년 추천 가입 전략을 정리합니다."
 categories: ["보험비교"]
 tags: ["뇌혈관보험", "뇌졸중보험", "뇌출혈보험", "3대질병보험"]
+image: "/images/posts/stroke-insurance-2026.webp"
 toc: true
 ---
 

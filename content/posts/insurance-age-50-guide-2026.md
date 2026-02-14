@@ -5,6 +5,7 @@ description: "50대에 꼭 필요한 보험과 정리해야 할 보험을 보험
 categories: ["보험꿀팁"]
 tags: ["50대보험", "보험리모델링", "보험정리", "노후준비"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/insurance-age-50-guide-2026.webp"
 ---
 
 ## 50대, 보험 리모델링이 필요한 이유

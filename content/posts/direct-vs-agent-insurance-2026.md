@@ -4,6 +4,7 @@ date: 2026-02-14T09:40:00+09:00
 description: "보험 다이렉트 가입이 정말 싸을까? 설계사 통해 가입하면 뭐가 유리할까? 채널별 장단점을 비교합니다."
 categories: ["보험꿀팁"]
 tags: ["다이렉트보험", "보험설계사", "보험가입채널", "온라인보험"]
+image: "/images/posts/direct-vs-agent-insurance-2026.webp"
 toc: true
 ---
 

@@ -4,6 +4,7 @@ date: 2026-02-14T11:20:00+09:00
 description: "보험을 너무 많이 가입했다면? 보험 포트폴리오를 진단하고 최적화하는 자가 진단법을 알려드립니다."
 categories: ["보험꿀팁"]
 tags: ["보험다이어트", "보험포트폴리오", "보험정리", "보험진단"]
+image: "/images/posts/insurance-portfolio-review-2026.webp"
 toc: true
 ---
 

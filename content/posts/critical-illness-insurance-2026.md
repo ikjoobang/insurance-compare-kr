@@ -5,6 +5,7 @@ description: "2026년 CI보험 상품을 비교 분석합니다. 암, 뇌졸중,
 categories: ["보험비교"]
 tags: ["CI보험", "중대질병보험", "3대질병보험", "암보험"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/critical-illness-insurance-2026.webp"
 ---
 
 ## CI보험(Critical Illness Insurance)이란?

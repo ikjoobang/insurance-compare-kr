@@ -5,6 +5,7 @@ description: "자동차 종합보험과 책임보험의 차이를 비교합니�
 categories: ["자동차보험"]
 tags: ["종합보험", "책임보험", "자동차보험비교", "자동차보험가입"]
 author: "방대표 (XIVIX 보험분석팀)"
+image: "/images/posts/comprehensive-car-insurance-2026.webp"
 ---
 
 ## 책임보험 vs 종합보험 핵심 비교
