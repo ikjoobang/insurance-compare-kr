@@ -9,7 +9,7 @@ theme = "xivix-insurance"
   keywords = ["보험비교", "자동차보험", "실손보험", "연금보험", "보험추천"]
   googleAnalytics = ""
   # Google AdSense — 승인 후 ca-pub-XXXX 입력
-  adsenseId = ""
+  adsenseId = "ca-pub-6054609998728872"
   # Google Search Console — 인증 후 코드 입력
   googleVerification = "6HK8zC89O0t1broG2Btoter4hvNNcr4rvUsMTgElJ8k"
   # Naver Search Advisor — 인증 후 코드 입력
