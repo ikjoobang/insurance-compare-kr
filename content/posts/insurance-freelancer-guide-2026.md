@@ -3,7 +3,7 @@ title: "프리랜서·자영업자 보험 추천 2026 — 4대보험 없이 보�
 description: "프리랜서 보험 추천 자영업자 보험 비교 분석. 2026년 최신 기준 전문가가 알려주는 핵심 체크리스트와 추천 가이드."
 date: 2026-02-14T09:00:00+09:00
 lastmod: 2026-02-14T09:00:00+09:00
-draft: true
+draft: false
 categories: ["보험꿀팁"]
 tags: ["자영업자 보험", "1인 사업자 보험", "프리랜서보험추천", "2026프리랜서"]
 keywords: ["프리랜서 4대보험 대안", "자영업자 소득보장보험 추천"]
@@ -68,8 +68,8 @@ toc: true
 
 **1순위 추천**: **C손보 (무)든든한 내 건강 실손보험** - 폭넓은 보장 범위와 합리적인 보험료로 기본적인 의료비 부담을 덜어줍니다. 프리랜서에게 가장 필요한 보험이라고 생각합니다.
 
-[보험 해지환급금 계산법](/posts/insurance-surrender-value-2026/)
-[보험금 청구 거절 대처법](/posts/insurance-claim-rejected-guide/)
+[보험 해지환급금 계산법](/posts/no-refund-insurance-pros-cons/)
+[보험금 청구 거절 대처법](/posts/income-protection-insurance-2026/)
 
 ## 자주 묻는 질문 (FAQ)
 
