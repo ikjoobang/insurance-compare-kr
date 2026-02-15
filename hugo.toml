@@ -8,7 +8,12 @@ theme = "xivix-insurance"
   author = "보험비교 전문가"
   keywords = ["보험비교", "자동차보험", "실손보험", "연금보험", "보험추천"]
   googleAnalytics = ""
+  # Google AdSense — 승인 후 ca-pub-XXXX 입력
   adsenseId = ""
+  # Google Search Console — 인증 후 코드 입력
+  # googleVerification = "XXXX"
+  # Naver Search Advisor — 인증 후 코드 입력
+  # naverVerification = "XXXX"
 
 [menu]
   [[menu.main]]
@@ -40,7 +45,7 @@ theme = "xivix-insurance"
   home = ["HTML", "RSS", "JSON"]
 
 [sitemap]
-  changefreq = "daily"
+  changefreq = "weekly"
   priority = 0.5
 
 [markup.goldmark.renderer]

@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+{{ if .Params.keywords }}<meta name="keywords" content="{{ delimit .Params.keywords ", " }}">{{ else }}<meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">{{ end }}
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
@@ -33,6 +33,9 @@ body{font-family:'Pretendard',-apple-system,BlinkMacSystemFont,sans-serif}
 .card-hover{transition:all .3s;box-shadow:0 2px 8px rgba(0,0,0,.06)}
 .card-hover:hover{transform:translateY(-4px);box-shadow:0 12px 32px rgba(231,76,60,.15)}
 </style>
+{{ partial "faq-schema.html" . }}
+{{ partial "adsense.html" . }}
+{{ partial "verification.html" . }}
 </head>
 <body class="bg-gray-50 text-gray-800">
 {{ partial "header.html" . }}
