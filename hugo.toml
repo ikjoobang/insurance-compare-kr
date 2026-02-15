@@ -11,7 +11,7 @@ theme = "xivix-insurance"
   # Google AdSense — 승인 후 ca-pub-XXXX 입력
   adsenseId = ""
   # Google Search Console — 인증 후 코드 입력
-  # googleVerification = "XXXX"
+  googleVerification = "6HK8zC89O0t1broG2Btoter4hvNNcr4rvUsMTgElJ8k"
   # Naver Search Advisor — 인증 후 코드 입력
   # naverVerification = "XXXX"
 
