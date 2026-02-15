@@ -13,7 +13,7 @@ theme = "xivix-insurance"
   # Google Search Console — 인증 후 코드 입력
   googleVerification = "6HK8zC89O0t1broG2Btoter4hvNNcr4rvUsMTgElJ8k"
   # Naver Search Advisor — 인증 후 코드 입력
-  # naverVerification = "XXXX"
+  naverVerification = "f89c9cd2f84a0bdc5b651ea88f5545db9b98f83b"
 
 [menu]
   [[menu.main]]
