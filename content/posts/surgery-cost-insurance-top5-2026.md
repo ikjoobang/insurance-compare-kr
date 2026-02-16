@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["수술비보험", "수술비보험비교", "수술보험추천", "질병수술비보험", "2026수술비보험"]
 keywords: ["수술비 보험 비교 2026", "수술비 보험 비교 추천", "수술비 보험 비교 비교 가이드"]
 author: "보험비교 전문가"
-image: "/images/posts/surgery-cost-insurance-top5-2026.png"
+image: "/images/posts/surgery-cost-insurance-top5-2026.webp"
 toc: true
 ---
 
