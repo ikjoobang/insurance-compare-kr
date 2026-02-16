@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["장기요양보험", "요양보험비교", "장기요양보험추천", "2026보험"]
 keywords: ["장기요양 보험 비교 2026", "장기요양 보험 비교 추천", "장기요양 보험 비교 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/long-term-care-insurance-compare-2026.png"
+image: "/images/posts/long-term-care-insurance-compare-2026.webp"
 toc: true
 ---
 
