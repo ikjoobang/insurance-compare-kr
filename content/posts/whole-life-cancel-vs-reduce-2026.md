@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["종신보험해약", "감액완납", "종신보험유지", "보험해약", "2026종신보험"]
 keywords: ["종신보험 해약", "종신보험 감액완납", "종신보험 유지"]
 author: "보험비교 전문가"
-image: "/images/posts/whole-life-cancel-vs-reduce-2026.png"
+image: "/images/posts/whole-life-cancel-vs-reduce-2026.webp"
 toc: true
 ---
 
