@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험약관대출", "보험약관대출추천", "약관대출이자", "2026보험약관대출", "보험비교"]
 keywords: ["약관대출 이자 비교 2026", "약관대출 이자 추천", "약관대출 이자 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-loan-policy-loan-2026.png"
+image: "/images/posts/insurance-loan-policy-loan-2026.webp"
 toc: true
 ---
 
