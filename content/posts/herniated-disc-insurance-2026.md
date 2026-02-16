@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["디스크보험보장", "디스크보험보장추천", "허리디스크보험", "2026디스크보험보장", "보험비교"]
 keywords: ["허리디스크 보험 비교 2026", "허리디스크 보험 추천", "허리디스크 보험 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/herniated-disc-insurance-2026.png"
+image: "/images/posts/herniated-disc-insurance-2026.webp"
 toc: true
 ---
 
