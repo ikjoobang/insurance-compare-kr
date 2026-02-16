@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["자녀독립보험", "보험정리법", "부모보험최적화", "자녀분리보험", "2026보험정리"]
 keywords: ["자녀 독립 시 보험 정리 2026", "자녀 독립 시 보험 정리 추천", "자녀 독립 시 보험 정리 비교 가이드"]
 author: "보험비교 전문가"
-image: "/images/posts/child-independence-insurance-cleanup-2026.png"
+image: "/images/posts/child-independence-insurance-cleanup-2026.webp"
 toc: true
 ---
 
