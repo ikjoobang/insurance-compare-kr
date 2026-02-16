@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["산재보험적용", "산재보험적용추천", "산재보험급여", "2026산재보험적용", "보험비교"]
 keywords: ["산재보험 급여 비교 2026", "산재보험 급여 추천", "산재보험 급여 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/workers-comp-insurance-korea-2026.png"
+image: "/images/posts/workers-comp-insurance-korea-2026.webp"
 toc: true
 ---
 
