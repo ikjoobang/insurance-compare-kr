@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험료연말정산", "보험세액공제", "연말정산환급", "2026연말정산", "보험료공제"]
 keywords: ["보험료 연말정산 세액공제", "보험료 공제 한도", "연말정산 보험료 환급"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-tax-deduction-2026.png"
+image: "/images/posts/insurance-tax-deduction-2026.webp"
 toc: true
 ---
 
