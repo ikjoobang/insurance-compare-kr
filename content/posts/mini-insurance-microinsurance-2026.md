@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["미니보험추천", "미니보험추천추천", "미니보험종류", "2026미니보험추천", "보험비교"]
 keywords: ["미니보험 종류 비교 2026", "미니보험 종류 추천", "미니보험 종류 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/mini-insurance-microinsurance-2026.png"
+image: "/images/posts/mini-insurance-microinsurance-2026.webp"
 toc: true
 ---
 
