@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["무직자보험", "전업주부보험", "보험가입자격", "무직자보험가입", "2026보험"]
 keywords: ["무직자 보험 가입", "전업주부 보험 추천", "직업 없이 보험"]
 author: "보험비교 전문가"
-image: "/images/posts/housewife-unemployed-insurance-guide-2026.png"
+image: "/images/posts/housewife-unemployed-insurance-guide-2026.webp"
 toc: true
 ---
 
