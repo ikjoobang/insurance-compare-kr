@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["유병자실손보험", "고혈압보험가입", "당뇨보험", "2026유병자보험", "실손보험가입"]
 keywords: ["유병자 실손보험 가입", "고혈압 보험 가입 가능", "당뇨 실손보험"]
 author: "보험비교 전문가"
-image: "/images/posts/chronic-illness-silson-2026.png"
+image: "/images/posts/chronic-illness-silson-2026.webp"
 toc: true
 ---
 
