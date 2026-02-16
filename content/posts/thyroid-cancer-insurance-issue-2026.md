@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["갑상선암보험", "갑상선암보험추천", "갑상선암보험금", "2026갑상선암보험", "보험비교"]
 keywords: ["갑상선암 보험금 비교 2026", "갑상선암 보험금 추천", "갑상선암 보험금 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/thyroid-cancer-insurance-issue-2026.png"
+image: "/images/posts/thyroid-cancer-insurance-issue-2026.webp"
 toc: true
 ---
 
