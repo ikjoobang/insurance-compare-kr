@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험금미지급", "보험금지연", "보험민원", "보험금청구", "2026보험금"]
 keywords: ["보험금 미지급 대처", "보험금 지연", "보험 민원"]
 author: "보험비교 전문가"
-image: "/images/posts/unpaid-insurance-claim-response-2026.png"
+image: "/images/posts/unpaid-insurance-claim-response-2026.webp"
 toc: true
 ---
 
