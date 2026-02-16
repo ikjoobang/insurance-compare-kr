@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["해외체류자보험", "해외거주보험", "해외보험금청구", "2026해외보험", "국민건강보험해외"]
 keywords: ["해외체류자 보험 가이드", "해외 거주 보험 유지", "해외 보험금 청구 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/overseas-resident-insurance-2026.png"
+image: "/images/posts/overseas-resident-insurance-2026.webp"
 toc: true
 ---
 
