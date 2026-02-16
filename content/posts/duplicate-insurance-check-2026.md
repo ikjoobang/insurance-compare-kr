@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험중복가입", "내보험다보여", "보험조회", "2026보험정리", "보험중복확인"]
 keywords: ["보험 중복가입 확인 방법", "내보험다보여 사용법", "불필요한 보험 정리"]
 author: "보험비교 전문가"
-image: "/images/posts/duplicate-insurance-check-2026.png"
+image: "/images/posts/duplicate-insurance-check-2026.webp"
 toc: true
 ---
 
