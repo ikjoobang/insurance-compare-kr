@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["무해지환급형보험", "만기환급형보험", "보험환급비교", "2026보험"]
 keywords: ["무해지환급형 만기환급형 비교 2026", "무해지환급형 만기환급형 비교 추천", "무해지환급형 만기환급형 비교 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/no-refund-vs-maturity-refund-2026.png"
+image: "/images/posts/no-refund-vs-maturity-refund-2026.webp"
 toc: true
 ---
 
