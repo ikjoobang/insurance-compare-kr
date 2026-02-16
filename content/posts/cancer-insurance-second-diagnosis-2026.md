@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["암보험2차진단금", "재발암보험", "전이암보장", "2026암보험", "암보험비교"]
 keywords: ["암보험 2차 진단금", "재발암 전이암 보험", "암보험 2차 진단금 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/cancer-insurance-second-diagnosis-2026.png"
+image: "/images/posts/cancer-insurance-second-diagnosis-2026.webp"
 toc: true
 ---
 
