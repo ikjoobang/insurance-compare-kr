@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험갱신거절", "보험거절대처", "실손보험갱신", "2026보험갱신", "보험민원"]
 keywords: ["보험 갱신 거절 대처법", "실손보험 갱신 거절", "보험 갱신 거절 민원"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-renewal-rejection-2026.png"
+image: "/images/posts/insurance-renewal-rejection-2026.webp"
 toc: true
 ---
 
