@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["프리랜서보험설계", "프리랜서보험설계추천", "프리랜서4대보험", "2026프리랜서보험설계", "보험비교"]
 keywords: ["프리랜서 4대보험 비교 2026", "프리랜서 4대보험 추천", "프리랜서 4대보험 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-for-freelance-designer-2026.png"
+image: "/images/posts/insurance-for-freelance-designer-2026.webp"
 toc: true
 ---
 
