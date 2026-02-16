@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험피보험자변경", "보험명의변경", "보험계약자변경", "보험수익자변경", "2026보험변경"]
 keywords: ["보험 피보험자 변경 2026", "보험 피보험자 변경 추천", "보험 피보험자 변경 비교 가이드"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-policyholder-change-2026.png"
+image: "/images/posts/insurance-policyholder-change-2026.webp"
 toc: true
 ---
 
