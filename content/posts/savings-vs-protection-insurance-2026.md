@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["저축성보험", "보장성보험", "보험비교2026", "저축성vs보장성", "보험수익률"]
 keywords: ["저축성보험 보장성보험 차이", "저축성보험 수익률", "보장성보험 추천"]
 author: "보험비교 전문가"
-image: "/images/posts/savings-vs-protection-insurance-2026.png"
+image: "/images/posts/savings-vs-protection-insurance-2026.webp"
 toc: true
 ---
 
