@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["대리운전보험", "대리운전보험추천", "대리운전사고", "2026대리운전보험", "보험비교"]
 keywords: ["대리운전 사고 비교 2026", "대리운전 사고 추천", "대리운전 사고 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-for-uber-driver-2026.png"
+image: "/images/posts/insurance-for-uber-driver-2026.webp"
 toc: true
 ---
 
