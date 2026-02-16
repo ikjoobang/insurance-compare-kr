@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험옴부즈만", "보험옴부즈만추천", "보험분쟁해결", "2026보험옴부즈만", "보험비교"]
 keywords: ["보험 분쟁 해결 비교 2026", "보험 분쟁 해결 추천", "보험 분쟁 해결 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-ombudsman-guide-2026.png"
+image: "/images/posts/insurance-ombudsman-guide-2026.webp"
 toc: true
 ---
 
