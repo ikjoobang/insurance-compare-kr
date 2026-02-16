@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험가입거절", "보험거절사유", "유병자보험", "보험가입거절대처", "2026보험거절"]
 keywords: ["보험 가입 거절 2026", "보험 가입 거절 추천", "보험 가입 거절 비교 가이드"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-rejection-reasons-2026.png"
+image: "/images/posts/insurance-rejection-reasons-2026.webp"
 toc: true
 ---
 
