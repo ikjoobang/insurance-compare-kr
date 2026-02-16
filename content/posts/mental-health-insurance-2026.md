@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["정신건강보험", "우울증보험", "불안장애보험", "2026정신보험", "정신질환보장"]
 keywords: ["정신건강 보험 비교", "우울증 보험 가입", "정신질환 보험 보장"]
 author: "보험비교 전문가"
-image: "/images/posts/mental-health-insurance-2026.png"
+image: "/images/posts/mental-health-insurance-2026.webp"
 toc: true
 ---
 
