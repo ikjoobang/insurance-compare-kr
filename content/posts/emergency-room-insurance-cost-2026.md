@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["응급실보험적용", "응급실보험적용추천", "응급실실비", "2026응급실보험적용", "보험비교"]
 keywords: ["응급실 실비 비교 2026", "응급실 실비 추천", "응급실 실비 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/emergency-room-insurance-cost-2026.png"
+image: "/images/posts/emergency-room-insurance-cost-2026.webp"
 toc: true
 ---
 
