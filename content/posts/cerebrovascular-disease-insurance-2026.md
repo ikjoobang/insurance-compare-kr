@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["뇌혈관질환보험", "뇌졸중보험", "뇌출혈보험", "뇌혈관보험추천", "2026뇌혈관보험"]
 keywords: ["뇌혈관질환 보험 추천 2026", "뇌졸중 보험 비교", "뇌출혈 진단금 보험"]
 author: "보험비교 전문가"
-image: "/images/posts/cerebrovascular-disease-insurance-2026.png"
+image: "/images/posts/cerebrovascular-disease-insurance-2026.webp"
 toc: true
 ---
 
