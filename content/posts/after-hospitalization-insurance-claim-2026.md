@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["퇴원후보험금청구", "퇴원후보험금청구추천", "입원비청구", "2026퇴원후보험금청구", "보험비교"]
 keywords: ["입원비 청구 비교 2026", "입원비 청구 추천", "입원비 청구 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/after-hospitalization-insurance-claim-2026.png"
+image: "/images/posts/after-hospitalization-insurance-claim-2026.webp"
 toc: true
 ---
 
