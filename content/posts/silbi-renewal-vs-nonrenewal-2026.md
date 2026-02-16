@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["실비보험갱신형", "비갱신형실비", "실비보험비교", "2026실비보험", "갱신형vs비갱신형"]
 keywords: ["실비보험 갱신형 비갱신형 차이", "2026 실비보험 추천", "실비보험 보험료 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/silbi-renewal-vs-nonrenewal-2026.png"
+image: "/images/posts/silbi-renewal-vs-nonrenewal-2026.webp"
 toc: true
 ---
 
