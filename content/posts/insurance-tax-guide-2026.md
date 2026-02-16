@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험금세금", "보험비과세", "보험상속세", "2026보험세금", "보험금과세"]
 keywords: ["보험금 세금 부과 기준", "보험 비과세 조건", "보험금 상속세 증여세"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-tax-guide-2026.png"
+image: "/images/posts/insurance-tax-guide-2026.webp"
 toc: true
 ---
 
