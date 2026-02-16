@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["신생아보험가입", "신생아보험가입추천", "신생아보험", "2026신생아보험가입", "보험비교"]
 keywords: ["신생아 보험 비교 2026", "신생아 보험 추천", "신생아 보험 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-for-newborn-baby-2026.png"
+image: "/images/posts/insurance-for-newborn-baby-2026.webp"
 toc: true
 ---
 
