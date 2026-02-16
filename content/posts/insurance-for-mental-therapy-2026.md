@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["심리상담보험", "심리상담보험추천", "정신과실비", "2026심리상담보험", "보험비교"]
 keywords: ["정신과 실비 비교 2026", "정신과 실비 추천", "정신과 실비 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-for-mental-therapy-2026.png"
+image: "/images/posts/insurance-for-mental-therapy-2026.webp"
 toc: true
 ---
 
