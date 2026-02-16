@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험수익자변경", "보험수익자변경추천", "보험수익자", "2026보험수익자변경", "보험비교"]
 keywords: ["보험 수익자 비교 2026", "보험 수익자 추천", "보험 수익자 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-beneficiary-change-guide-2026.png"
+image: "/images/posts/insurance-beneficiary-change-guide-2026.webp"
 toc: true
 ---
 
