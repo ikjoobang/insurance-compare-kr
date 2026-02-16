@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["입원일당보험", "입원일당비교", "입원보험추천", "질병입원일당", "2026입원일당보험"]
 keywords: ["입원일당 보험 비교 2026", "입원일당 보험 비교 추천", "입원일당 보험 비교 비교 가이드"]
 author: "보험비교 전문가"
-image: "/images/posts/hospital-daily-pay-top5-2026.png"
+image: "/images/posts/hospital-daily-pay-top5-2026.webp"
 toc: true
 ---
 
