@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["실비보험자기부담금", "실손보험환급", "실비보험줄이기", "자기부담금계산", "2026실비보험"]
 keywords: ["실비보험 자기부담금 줄이는법 2026", "실손보험 본인부담금 절약", "실비보험 환급 극대화"]
 author: "보험비교 전문가"
-image: "/images/posts/silbi-reduce-copay-tips-2026.png"
+image: "/images/posts/silbi-reduce-copay-tips-2026.webp"
 toc: true
 ---
 
