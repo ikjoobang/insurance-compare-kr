@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["변액유니버셜보험", "변액유니버셜보험추천", "변액유니버셜", "2026변액유니버셜보험", "보험비교"]
 keywords: ["변액유니버셜 비교 2026", "변액유니버셜 추천", "변액유니버셜 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/variable-universal-life-2026.png"
+image: "/images/posts/variable-universal-life-2026.webp"
 toc: true
 ---
 
