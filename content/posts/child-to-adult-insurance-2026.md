@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["어린이보험전환", "성인보험전환", "보험만기전환", "2026어린이보험", "보장공백"]
 keywords: ["어린이보험 성인 전환", "어린이보험 만기 후", "성인보험 전환 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/child-to-adult-insurance-2026.png"
+image: "/images/posts/child-to-adult-insurance-2026.webp"
 toc: true
 ---
 
