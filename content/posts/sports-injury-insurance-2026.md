@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["스포츠상해보험", "스포츠상해보험추천", "운동보험", "2026스포츠상해보험", "보험비교"]
 keywords: ["운동 보험 비교 2026", "운동 보험 추천", "운동 보험 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/sports-injury-insurance-2026.png"
+image: "/images/posts/sports-injury-insurance-2026.webp"
 toc: true
 ---
 
