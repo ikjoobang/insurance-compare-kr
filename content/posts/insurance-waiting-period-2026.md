@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험면책기간", "보험보장개시일", "면책기간없는보험", "2026보험면책", "보험가입후보장"]
 keywords: ["보험 면책기간 정리", "보험 면책기간 종류", "면책기간 없는 보험"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-waiting-period-2026.png"
+image: "/images/posts/insurance-waiting-period-2026.webp"
 toc: true
 ---
 
