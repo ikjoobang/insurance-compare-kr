@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["외국인보험가입", "한국외국인보험", "외국인건강보험", "2026외국인보험", "체류외국인보험"]
 keywords: ["외국인 한국 보험 가입", "체류 외국인 건강보험", "외국인 보험 추천"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-for-expats-korea-2026.png"
+image: "/images/posts/insurance-for-expats-korea-2026.webp"
 toc: true
 ---
 
