@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["MRI보험", "CT보험적용", "MRI급여비급여", "실손보험MRI", "2026MRI보험"]
 keywords: ["MRI CT 보험 적용 2026", "MRI 급여 비급여 차이", "MRI 실손보험 청구 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/mri-ct-insurance-coverage-2026.png"
+image: "/images/posts/mri-ct-insurance-coverage-2026.webp"
 toc: true
 ---
 
