@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["태아보험", "태아보험가입시기", "임산부보험", "태아보험추천", "2026태아보험"]
 keywords: ["태아보험 가입시기 2026", "태아보험 임신 몇주", "태아보험 가입 추천 시기"]
 author: "보험비교 전문가"
-image: "/images/posts/fetal-insurance-timing-2026.png"
+image: "/images/posts/fetal-insurance-timing-2026.webp"
 toc: true
 ---
 
