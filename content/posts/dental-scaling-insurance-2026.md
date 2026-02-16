@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["치과스케일링보험", "치과스케일링보험추천", "스케일링실비", "2026치과스케일링보험", "보험비교"]
 keywords: ["스케일링 실비 비교 2026", "스케일링 실비 추천", "스케일링 실비 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/dental-scaling-insurance-2026.png"
+image: "/images/posts/dental-scaling-insurance-2026.webp"
 toc: true
 ---
 
