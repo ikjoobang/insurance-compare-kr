@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["요양병원보험", "요양병원입원비", "요양입원보험", "요양병원보장", "2026요양병원보험"]
 keywords: ["요양병원 입원비 보험 2026", "요양병원 입원비 보험 추천", "요양병원 입원비 보험 비교 가이드"]
 author: "보험비교 전문가"
-image: "/images/posts/nursing-hospital-insurance-2026.png"
+image: "/images/posts/nursing-hospital-insurance-2026.webp"
 toc: true
 ---
 
