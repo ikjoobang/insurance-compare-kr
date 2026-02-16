@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["여성전용보험", "여성보험비교", "유방암보험", "2026여성보험", "여성질환보험"]
 keywords: ["여성전용 보험 비교", "여성 보험 추천 2026", "유방암 자궁암 보험"]
 author: "보험비교 전문가"
-image: "/images/posts/women-insurance-comparison-2026.png"
+image: "/images/posts/women-insurance-comparison-2026.webp"
 toc: true
 ---
 
