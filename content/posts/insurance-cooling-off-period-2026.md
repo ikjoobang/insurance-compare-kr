@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험청약철회", "보험청약철회추천", "보험철회기간", "2026보험청약철회", "보험비교"]
 keywords: ["보험 철회 기간 비교 2026", "보험 철회 기간 추천", "보험 철회 기간 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-cooling-off-period-2026.png"
+image: "/images/posts/insurance-cooling-off-period-2026.webp"
 toc: true
 ---
 
