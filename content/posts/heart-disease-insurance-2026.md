@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["심장질환보험", "심근경색보험", "허혈성심장보험", "심장보험추천", "2026심장보험"]
 keywords: ["심장질환 보험 비교 2026", "급성심근경색 보험 추천", "허혈성심장질환 진단금"]
 author: "보험비교 전문가"
-image: "/images/posts/heart-disease-insurance-2026.png"
+image: "/images/posts/heart-disease-insurance-2026.webp"
 toc: true
 ---
 
