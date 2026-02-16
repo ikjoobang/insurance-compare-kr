@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["해약환급금", "보험해지", "해약환급금계산", "보험해약환급금", "2026보험해지"]
 keywords: ["보험 해약환급금 계산법 2026", "보험 해지 환급금 얼마", "보험 해약 손해 최소화"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-surrender-value-calc-2026.png"
+image: "/images/posts/insurance-surrender-value-calc-2026.webp"
 toc: true
 ---
 
