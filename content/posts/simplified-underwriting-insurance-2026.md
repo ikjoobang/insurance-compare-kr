@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["유병자보험", "간편심사보험", "고혈압보험", "당뇨보험", "2026유병자보험"]
 keywords: ["유병자 간편심사 보험", "고혈압 보험 가입", "당뇨 보험 추천"]
 author: "보험비교 전문가"
-image: "/images/posts/simplified-underwriting-insurance-2026.png"
+image: "/images/posts/simplified-underwriting-insurance-2026.webp"
 toc: true
 ---
 
