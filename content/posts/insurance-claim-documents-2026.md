@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험금청구서류", "보험청구서류", "보험금청구방법", "보험서류체크리스트", "2026보험청구"]
 keywords: ["보험금 청구 서류 총정리 2026", "보험금 청구 필요 서류", "보험금 청구 방법 서류"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-claim-documents-2026.png"
+image: "/images/posts/insurance-claim-documents-2026.webp"
 toc: true
 ---
 
