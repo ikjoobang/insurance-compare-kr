@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["군인보험", "공무원보험", "공제회보험", "2026공무원보험", "군인공제회"]
 keywords: ["군인 공무원 보험 가이드", "공제회 vs 민간보험", "공무원 보험 추천"]
 author: "보험비교 전문가"
-image: "/images/posts/military-civil-servant-insurance-2026.png"
+image: "/images/posts/military-civil-servant-insurance-2026.webp"
 toc: true
 ---
 
