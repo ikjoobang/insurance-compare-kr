@@ -8,7 +8,7 @@ categories: ["자동차보험"]
 tags: ["자동차보험할인", "마일리지할인", "블랙박스할인", "2026자동차보험절약", "보험할인특약"]
 keywords: ["자동차보험 할인 특약", "자동차보험 절약 방법", "마일리지 할인 자동차보험"]
 author: "보험비교 전문가"
-image: "/images/posts/car-insurance-discount-tips-2026.png"
+image: "/images/posts/car-insurance-discount-tips-2026.webp"
 toc: true
 ---
 
