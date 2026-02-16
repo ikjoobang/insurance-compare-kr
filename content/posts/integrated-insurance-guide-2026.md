@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["통합보험", "통합보험장단점", "보험묶음가입", "2026통합보험", "보험설계"]
 keywords: ["통합보험 장단점", "통합보험 vs 개별보험", "통합보험 보장범위"]
 author: "보험비교 전문가"
-image: "/images/posts/integrated-insurance-guide-2026.png"
+image: "/images/posts/integrated-insurance-guide-2026.webp"
 toc: true
 ---
 
