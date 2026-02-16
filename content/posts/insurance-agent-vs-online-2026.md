@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험설계사", "온라인보험가입", "다이렉트보험", "2026보험가입", "보험료절약"]
 keywords: ["보험설계사 vs 온라인 가입 비교", "다이렉트 보험 장단점", "보험 가입 채널 추천"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-agent-vs-online-2026.png"
+image: "/images/posts/insurance-agent-vs-online-2026.webp"
 toc: true
 ---
 
