@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험사재무건전성", "RBC비율", "보험사순위", "2026보험사비교", "KICS"]
 keywords: ["보험사 재무건전성 비교", "보험사 RBC 비율 순위", "안전한 보험사 2026"]
 author: "보험비교 전문가"
-image: "/images/posts/insurer-financial-health-2026.png"
+image: "/images/posts/insurer-financial-health-2026.webp"
 toc: true
 ---
 
