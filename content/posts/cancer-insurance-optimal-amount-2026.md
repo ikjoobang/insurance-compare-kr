@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["암보험진단금", "암보험적정금액", "암치료비", "암보험추천", "2026암보험"]
 keywords: ["암보험 진단금 적정금액", "암보험 얼마", "암 치료비 실비"]
 author: "보험비교 전문가"
-image: "/images/posts/cancer-insurance-optimal-amount-2026.png"
+image: "/images/posts/cancer-insurance-optimal-amount-2026.webp"
 toc: true
 ---
 
