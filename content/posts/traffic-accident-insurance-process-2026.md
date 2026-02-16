@@ -8,7 +8,7 @@ categories: ["자동차보험"]
 tags: ["교통사고보험처리", "자동차사고보험", "과실비율", "2026교통사고", "보험금청구"]
 keywords: ["교통사고 보험 처리 절차", "자동차 사고 보험금 청구", "교통사고 과실비율"]
 author: "보험비교 전문가"
-image: "/images/posts/traffic-accident-insurance-process-2026.png"
+image: "/images/posts/traffic-accident-insurance-process-2026.webp"
 toc: true
 ---
 
