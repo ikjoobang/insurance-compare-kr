@@ -8,7 +8,7 @@ categories: ["자동차보험"]
 tags: ["전기차보험", "전기차자동차보험", "배터리특약", "2026전기차보험", "전기차보험료"]
 keywords: ["전기차 보험 비교", "전기차 자동차보험 특약", "전기차 보험료"]
 author: "보험비교 전문가"
-image: "/images/posts/electric-car-insurance-2026.png"
+image: "/images/posts/electric-car-insurance-2026.webp"
 toc: true
 ---
 
