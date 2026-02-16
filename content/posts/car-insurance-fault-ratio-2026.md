@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["자동차보험과실비율", "교통사고과실", "과실비율기준", "2026보험"]
 keywords: ["자동차보험 과실비율 2026", "자동차보험 과실비율 추천", "자동차보험 과실비율 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/car-insurance-fault-ratio-2026.png"
+image: "/images/posts/car-insurance-fault-ratio-2026.webp"
 toc: true
 ---
 
