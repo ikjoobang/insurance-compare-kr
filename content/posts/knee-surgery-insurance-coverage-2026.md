@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["무릎수술보험", "무릎수술보험추천", "무릎수술보험", "2026무릎수술보험", "보험비교"]
 keywords: ["무릎 수술 보험 비교 2026", "무릎 수술 보험 추천", "무릎 수술 보험 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/knee-surgery-insurance-coverage-2026.png"
+image: "/images/posts/knee-surgery-insurance-coverage-2026.webp"
 toc: true
 ---
 
