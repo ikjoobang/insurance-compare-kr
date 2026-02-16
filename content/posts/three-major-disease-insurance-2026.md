@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["3대질병보험", "암심장뇌보험", "3대질병통합", "질병보험추천", "20263대질병"]
 keywords: ["3대질병 보험 정리 2026", "암 심장 뇌 보험 비교", "3대질병 통합 보장 추천"]
 author: "보험비교 전문가"
-image: "/images/posts/three-major-disease-insurance-2026.png"
+image: "/images/posts/three-major-disease-insurance-2026.webp"
 toc: true
 ---
 
