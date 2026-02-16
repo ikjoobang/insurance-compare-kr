@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험료인상", "보험갱신인상", "보험료절약", "갱신형보험대응", "2026보험료인상"]
 keywords: ["보험료 인상 대응법 2026", "갱신형 보험 보험료 올랐을때", "보험료 폭등 대처법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-premium-increase-response-2026.png"
+image: "/images/posts/insurance-premium-increase-response-2026.webp"
 toc: true
 ---
 
