@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["암치료비현실", "암치료비현실추천", "암치료비용", "2026암치료비현실", "보험비교"]
 keywords: ["암 치료 비용 비교 2026", "암 치료 비용 추천", "암 치료 비용 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/cancer-treatment-cost-reality-2026.png"
+image: "/images/posts/cancer-treatment-cost-reality-2026.webp"
 toc: true
 ---
 
