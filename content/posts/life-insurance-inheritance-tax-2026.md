@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험금상속세", "보험금상속세추천", "보험상속세", "2026보험금상속세", "보험비교"]
 keywords: ["보험 상속세 비교 2026", "보험 상속세 추천", "보험 상속세 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/life-insurance-inheritance-tax-2026.png"
+image: "/images/posts/life-insurance-inheritance-tax-2026.webp"
 toc: true
 ---
 
