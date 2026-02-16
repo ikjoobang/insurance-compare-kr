@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["다이렉트실손보험", "온라인실손보험", "다이렉트실비추천", "2026보험"]
 keywords: ["다이렉트 실손보험 추천 2026", "다이렉트 실손보험 추천 추천", "다이렉트 실손보험 추천 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/direct-silson-insurance-top-2026.png"
+image: "/images/posts/direct-silson-insurance-top-2026.webp"
 toc: true
 ---
 
