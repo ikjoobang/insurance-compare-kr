@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["렌트카보험", "렌터카자차보험", "CDW보험", "렌트카보험추천", "2026보험"]
 keywords: ["렌트카 보험 가이드 2026", "렌트카 보험 가이드 추천", "렌트카 보험 가이드 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/rental-car-insurance-guide-2026.png"
+image: "/images/posts/rental-car-insurance-guide-2026.webp"
 toc: true
 ---
 
