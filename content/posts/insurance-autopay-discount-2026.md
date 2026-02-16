@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험료자동이체할인", "보험료자동이체할인추천", "보험료할인", "2026보험료자동이체할인", "보험비교"]
 keywords: ["보험료 할인 비교 2026", "보험료 할인 추천", "보험료 할인 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-autopay-discount-2026.png"
+image: "/images/posts/insurance-autopay-discount-2026.webp"
 toc: true
 ---
 
