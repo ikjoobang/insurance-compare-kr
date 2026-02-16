@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["직장인보험설계", "직장인보험설계추천", "직장인보험", "2026직장인보험설계", "보험비교"]
 keywords: ["직장인 보험 비교 2026", "직장인 보험 추천", "직장인 보험 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-for-office-worker-2026.png"
+image: "/images/posts/insurance-for-office-worker-2026.webp"
 toc: true
 ---
 
