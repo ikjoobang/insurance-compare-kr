@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["후유장해보험", "장해등급", "후유장해보장", "보험보장금액", "2026후유장해"]
 keywords: ["후유장해보험", "장해등급 보험금", "후유장해 보장"]
 author: "보험비교 전문가"
-image: "/images/posts/disability-aftermath-insurance-2026.png"
+image: "/images/posts/disability-aftermath-insurance-2026.webp"
 toc: true
 ---
 
