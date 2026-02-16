@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["간병인보험", "간병인보험비교", "간병비보험", "간병보험추천", "2026간병인보험"]
 keywords: ["간병인보험 비교 추천 2026", "간병인보험 보장 범위", "간병비 보험 가입 조건"]
 author: "보험비교 전문가"
-image: "/images/posts/caregiver-insurance-comparison-2026.png"
+image: "/images/posts/caregiver-insurance-comparison-2026.webp"
 toc: true
 ---
 
