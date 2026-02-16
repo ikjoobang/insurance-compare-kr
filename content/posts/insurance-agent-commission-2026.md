@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험설계사수수료", "보험수수료구조", "보험사업비", "다이렉트보험", "2026보험수수료"]
 keywords: ["보험설계사 수수료 구조 2026", "보험 수수료 얼마", "보험설계사 커미션 구조"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-agent-commission-2026.png"
+image: "/images/posts/insurance-agent-commission-2026.webp"
 toc: true
 ---
 
