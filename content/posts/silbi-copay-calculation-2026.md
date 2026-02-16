@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["실손보험자기부담금", "4세대실손보험", "실비자기부담금", "2026실손보험", "실손보험계산"]
 keywords: ["실손보험 자기부담금 계산", "4세대 실손 자기부담금 비율", "실비 환급액 계산"]
 author: "보험비교 전문가"
-image: "/images/posts/silbi-copay-calculation-2026.png"
+image: "/images/posts/silbi-copay-calculation-2026.webp"
 toc: true
 ---
 
