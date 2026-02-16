@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험금분쟁", "보험이의제기", "보험금청구거절", "2026보험분쟁", "금감원분쟁조정"]
 keywords: ["보험금 분쟁 해결", "보험 이의제기 방법", "보험금 청구 거절 대처"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-dispute-resolution-2026.png"
+image: "/images/posts/insurance-dispute-resolution-2026.webp"
 toc: true
 ---
 
