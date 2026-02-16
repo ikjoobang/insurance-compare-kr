@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["미청구보험금", "보험금찾기", "숨은보험금", "2026보험"]
 keywords: ["미청구 보험금 찾기 2026", "미청구 보험금 찾기 추천", "미청구 보험금 찾기 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/unclaimed-insurance-money-2026.png"
+image: "/images/posts/unclaimed-insurance-money-2026.webp"
 toc: true
 ---
 
