@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험민원접수", "금감원민원", "보험분쟁조정", "보험민원방법", "2026보험"]
 keywords: ["보험 민원 접수 방법 2026", "보험 민원 접수 방법 추천", "보험 민원 접수 방법 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-civil-complaint-how-2026.png"
+image: "/images/posts/insurance-civil-complaint-how-2026.webp"
 toc: true
 ---
 
