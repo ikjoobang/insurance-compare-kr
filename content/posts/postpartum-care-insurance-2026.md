@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["산후조리보험", "산후조리보험추천", "산후조리보험", "2026산후조리보험", "보험비교"]
 keywords: ["산후조리 보험 비교 2026", "산후조리 보험 추천", "산후조리 보험 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/postpartum-care-insurance-2026.png"
+image: "/images/posts/postpartum-care-insurance-2026.webp"
 toc: true
 ---
 
