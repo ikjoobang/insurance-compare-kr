@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험약관", "보험약관읽는법", "면책사항", "2026보험가이드", "보험핵심조항"]
 keywords: ["보험 약관 읽는 방법", "보험 면책사항 확인", "보험 약관 핵심 조항"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-policy-reading-guide-2026.png"
+image: "/images/posts/insurance-policy-reading-guide-2026.webp"
 toc: true
 ---
 
