@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험리콜제도", "불완전판매보험", "보험환불", "2026보험리콜", "보험피해구제"]
 keywords: ["보험 리콜 제도", "불완전판매 보험 환불", "보험 리콜 신청 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-recall-system-2026.png"
+image: "/images/posts/insurance-recall-system-2026.webp"
 toc: true
 ---
 
