@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["보험사민원", "민원순위", "보험사비교", "금감원민원", "2026보험사"]
 keywords: ["보험사 민원 순위", "보험사 민원율", "보험사 비교"]
 author: "보험비교 전문가"
-image: "/images/posts/insurer-complaint-ranking-2026.png"
+image: "/images/posts/insurer-complaint-ranking-2026.webp"
 toc: true
 ---
 
