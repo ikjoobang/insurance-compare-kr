@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["맞벌이부부보험", "2인가구보험", "부부보험설계", "2026부부보험", "보험포트폴리오"]
 keywords: ["맞벌이 부부 보험 설계", "2인 가구 보험 추천", "부부 보험 포트폴리오"]
 author: "보험비교 전문가"
-image: "/images/posts/couple-insurance-design-2026.png"
+image: "/images/posts/couple-insurance-design-2026.webp"
 toc: true
 ---
 
