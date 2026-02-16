@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["암보험부활", "암보험부활추천", "보험실효부활", "2026암보험부활", "보험비교"]
 keywords: ["보험 실효 부활 비교 2026", "보험 실효 부활 추천", "보험 실효 부활 가입 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/cancer-insurance-reinstatement-2026.png"
+image: "/images/posts/cancer-insurance-reinstatement-2026.webp"
 toc: true
 ---
 
