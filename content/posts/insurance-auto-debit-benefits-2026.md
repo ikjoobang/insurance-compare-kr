@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험자동이체할인", "보험료할인", "보험사할인율", "2026보험할인", "보험료절약"]
 keywords: ["보험 자동이체 할인", "보험사 할인율 비교", "보험료 절약 방법"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-auto-debit-benefits-2026.png"
+image: "/images/posts/insurance-auto-debit-benefits-2026.webp"
 toc: true
 ---
 
