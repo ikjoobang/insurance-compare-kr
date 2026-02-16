@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["보험승환계약", "보험전환주의", "보험해지유도", "2026보험주의사항", "보험피해방지"]
 keywords: ["보험 승환계약 주의사항", "보험 해지 유도 수법", "보험 전환 피해 방지"]
 author: "보험비교 전문가"
-image: "/images/posts/insurance-replacement-warning-2026.png"
+image: "/images/posts/insurance-replacement-warning-2026.webp"
 toc: true
 ---
 
