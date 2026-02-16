@@ -8,7 +8,7 @@ categories: ["보험비교"]
 tags: ["어린이보험", "태아보험", "어린이보험vs태아보험", "태아보험차이", "2026어린이보험"]
 keywords: ["어린이보험 태아보험 차이 2026", "어린이보험 vs 태아보험 비교", "태아보험 어린이보험 뭐가 좋나"]
 author: "보험비교 전문가"
-image: "/images/posts/child-vs-fetal-insurance-2026.png"
+image: "/images/posts/child-vs-fetal-insurance-2026.webp"
 toc: true
 ---
 
