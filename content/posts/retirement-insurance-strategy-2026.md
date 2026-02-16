@@ -8,7 +8,7 @@ categories: ["보험꿀팁"]
 tags: ["퇴직후보험", "은퇴보험전략", "보험리모델링", "2026은퇴보험", "퇴직보험정리"]
 keywords: ["퇴직 후 보험 전략", "은퇴자 보험 리모델링", "퇴직 보험 정리"]
 author: "보험비교 전문가"
-image: "/images/posts/retirement-insurance-strategy-2026.png"
+image: "/images/posts/retirement-insurance-strategy-2026.webp"
 toc: true
 ---
 
