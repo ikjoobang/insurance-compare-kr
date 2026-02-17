@@ -46,9 +46,7 @@ disableKinds = ["sitemap"]
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[sitemap]
-  changefreq = "weekly"
-  priority = 0.5
+["HTML", "RSS", "JSON"]
 
 [markup.goldmark.renderer]
   unsafe = true
