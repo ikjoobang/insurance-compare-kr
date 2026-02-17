@@ -3,8 +3,6 @@ languageCode = "ko-kr"
 title = "보험비교 전문가 — 2026 보험 완전정복"
 theme = "xivix-insurance"
 
-disableKinds = ["sitemap"]
-
 [params]
   description = "보험 전문가가 알려주는 진짜 보험 비교. 자동차보험, 실손보험, 연금보험 솔직 분석."
   author = "보험비교 전문가"
