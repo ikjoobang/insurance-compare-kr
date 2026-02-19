@@ -3,7 +3,7 @@ title: "보험 실효·부활 가이드 — 실효된 보험 되살리는 방법
 description: "보험 실효 부활 방법 완벽 가이드. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-11T06:42:00+09:00
 lastmod: 2026-02-11T06:42:00+09:00
-draft: false
+draft: true
 categories:
   - "보험비교"
 tags:

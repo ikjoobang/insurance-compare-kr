@@ -3,7 +3,7 @@ title: "스타트업 대표 보험 설계 — 창업자 필수 보험 가이드"
 description: "스타트업 대표 보험 설계 가이드. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-10T13:55:00+09:00
 lastmod: 2026-02-10T13:55:00+09:00
-draft: false
+draft: true
 categories:
   - "보험비교"
 tags:

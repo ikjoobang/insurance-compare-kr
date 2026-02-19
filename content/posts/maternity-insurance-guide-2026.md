@@ -3,7 +3,7 @@ title: "출산 관련 보험 총정리 2026 — 임신·출산 보험 혜택 가
 description: "출산 관련 보험 혜택 총정리. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-13T12:10:00+09:00
 lastmod: 2026-02-13T12:10:00+09:00
-draft: false
+draft: true
 categories:
   - "보험비교"
 tags:

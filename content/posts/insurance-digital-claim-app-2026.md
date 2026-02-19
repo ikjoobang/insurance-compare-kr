@@ -3,7 +3,7 @@ title: "보험금 간편청구 앱 비교 — 모바일 보험금 청구 앱 TOP
 description: "보험금 간편청구 앱 TOP5 비교. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-06T12:54:00+09:00
 lastmod: 2026-02-06T12:54:00+09:00
-draft: false
+draft: true
 categories:
   - "보험비교"
 tags:

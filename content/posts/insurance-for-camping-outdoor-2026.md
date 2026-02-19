@@ -3,7 +3,7 @@ title: "캠핑·아웃도어 보험 추천 — 야외활동 사고 보험 가이
 description: "캠핑 아웃도어 보험 추천 가이드. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-07T18:38:00+09:00
 lastmod: 2026-02-07T18:38:00+09:00
-draft: false
+draft: true
 categories:
   - "보험비교"
 tags:

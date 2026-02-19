@@ -3,7 +3,7 @@ title: "유튜버·크리에이터 보험 가이드"
 description: "크리에이터 맞춤 보험 설계법 총정리. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-10T22:10:00+09:00
 lastmod: 2026-02-10T22:10:00+09:00
-draft: false
+draft: true
 categories:
   - "보험비교"
 tags:

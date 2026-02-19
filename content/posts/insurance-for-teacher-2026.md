@@ -3,7 +3,7 @@ title: "교사·공무원 보험 설계 — 안정직 맞춤 보험 전략 가�
 description: "교사 공무원 맞춤 보험 설계 가이드. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-10T18:45:00+09:00
 lastmod: 2026-02-10T18:45:00+09:00
-draft: false
+draft: true
 categories:
   - "보험비교"
 tags:
