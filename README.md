@@ -1,2 +1,1 @@
-# Auto-publish enabled
-# Auto-build trigger 2026-02-19T08:54:35
+# insurankr.com - 보험비교 전문가
