@@ -44,8 +44,6 @@ theme = "xivix-insurance"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-["HTML", "RSS", "JSON"]
-
 [markup.goldmark.renderer]
   unsafe = true
 
