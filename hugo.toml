@@ -18,27 +18,27 @@ theme = "xivix-insurance"
 
 [menu]
   [[menu.main]]
-    name = "🏠 홈"
+    name = "홈"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "🚗 자동차보험"
+    name = "자동차보험"
     url = "/categories/자동차보험/"
     weight = 2
   [[menu.main]]
-    name = "🏥 실손보험"
+    name = "실손보험"
     url = "/categories/실손보험/"
     weight = 3
   [[menu.main]]
-    name = "💰 연금보험"
+    name = "연금보험"
     url = "/categories/연금보험/"
     weight = 4
   [[menu.main]]
-    name = "📊 보험비교"
+    name = "보험비교"
     url = "/categories/보험비교/"
     weight = 5
   [[menu.main]]
-    name = "💡 보험꿀팁"
+    name = "보험꿀팁"
     url = "/categories/보험꿀팁/"
     weight = 6
 
