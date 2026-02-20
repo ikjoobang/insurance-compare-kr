@@ -38,6 +38,9 @@ toc: true
 
 기존 질환별 보험 가입에 대한 상세 내용은 [고혈압 환자 보험 가이드](/posts/high-blood-pressure-insurance-2026/)와 [당뇨 환자 보험 가이드](/posts/diabetes-patient-insurance-2026/)를 참고하세요.
 
+
+![유병자 간편심사 보험 비교 — 고혈압·당뇨 있어도 가입 가능한 보험 (2026)](/images/posts/simplified-underwriting-insurance-2026.webp)
+
 ## 간편심사 보험 가입 질문은 어떤 내용인가요?
 
 간편심사 보험의 핵심은 3~5개의 고지 질문입니다. 보험사마다 약간씩 다르지만, 대표적인 간편심사 질문은 다음과 같습니다.

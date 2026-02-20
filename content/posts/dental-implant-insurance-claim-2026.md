@@ -47,6 +47,9 @@ toc: true
 
  보험 전체 비교가 필요하다면 [보험 리모델링 가이드](/posts/insurance-remodeling-guide-2026/)를 참고하세요.
 
+
+![임플란트 보험금 청구 방법 — 치과 보험 활용 전략 완벽 가이드](/images/posts/dental-implant-insurance-claim-2026.webp)
+
 ## 임플란트 보험금 청구 단계별 가이드
 
 임플란트 보험 관련 가장 많이 검색되는 질문에 대한 답변입니다. 2026년 2월 기준 보험개발원 데이터를 바탕으로 정확한 수치를 제공합니다.

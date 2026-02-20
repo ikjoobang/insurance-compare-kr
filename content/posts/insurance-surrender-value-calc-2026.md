@@ -47,6 +47,9 @@ toc: true
 
  [보험 해지 가이드 2026](/posts/insurance-cancellation-guide-2026/)에서 해지 절차와 주의사항을 확인하세요.
 
+
+![보험 해약환급금 계산법 2026 — 해지 전 반드시 확인할 5가지](/images/posts/insurance-surrender-value-calc-2026.webp)
+
 ## 보험 해약환급금 조회 방법 3가지
 
 보험 해약환급금 계산법을 직접 적용하기 어렵다면, 아래 3가지 방법으로 정확한 금액을 조회할 수 있습니다.

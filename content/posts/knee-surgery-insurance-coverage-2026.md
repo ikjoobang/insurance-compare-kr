@@ -38,6 +38,9 @@ toc: true
 
 무릎 수술 보험에 관한 기본 용어가 헷갈린다면 [보험 용어 사전 2026](/posts/insurance-terms-dictionary-2026/)을 먼저 확인하세요.
 
+
+![무릎수술 보험 적용 2026 — 보장 범위·보험료·가입 조건 완벽 분석](/images/posts/knee-surgery-insurance-coverage-2026.webp)
+
 ## 2026년 무릎 수술 보험 보험사별 비교표 TOP5
 
 무릎 수술 보험을 주요 보험사 5곳 기준으로 비교 분석했습니다. 보험개발원 2026년 2월 공시 데이터 기준입니다.

@@ -28,6 +28,9 @@ toc: true
 
  실손보험과의 차이가 궁금하다면 [실손보험 비교 2026 완벽 가이드](/posts/hyundai-silson-insurance-2026/)를 함께 확인하세요.
 
+
+![DB손해보험 암보험 추천 2026 — 진단금·보험료 비교](/images/posts/samsung-life-cancer-diagnosis-2026.webp)
+
 ## 암보험 비교 — 삼성·한화·DB 3사 핵심 비교표
 
 2026년 기준 주요 암보험 비교 결과를 정리했습니다. 30세 남성, 20년납 기준입니다.

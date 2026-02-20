@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![심장질환 보험 가입 안내 — 2026년 최신 완벽 가이드](/images/posts/insurance-for-heart-disease-2026.webp)
+
 ## 심장질환보험 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

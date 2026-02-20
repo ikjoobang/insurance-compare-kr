@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![당뇨 환자 보험 가입 방법 — 2026년 최신 완벽 가이드](/images/posts/insurance-for-diabetic-patient-2026.webp)
+
 ## 당뇨보험 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

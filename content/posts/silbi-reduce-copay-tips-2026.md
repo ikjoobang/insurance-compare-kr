@@ -40,6 +40,9 @@ toc: true
 
  [실손보험 비교 2026](/posts/silson-insurance-comparison-2026/)에서 세대별 실손보험 상세 비교를 확인하세요.
 
+
+![실비보험 자기부담금 줄이는법 2026 — 실손보험 환급 극대화 전략](/images/posts/silbi-reduce-copay-tips-2026.webp)
+
 ## 실비보험 자기부담금 줄이는법 5가지 실전 전략
 
 실비보험 자기부담금 줄이는법을 실전에서 바로 적용할 수 있는 5가지 전략입니다.

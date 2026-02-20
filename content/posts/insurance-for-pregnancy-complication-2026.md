@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![임신 합병증 보험 보장 범위 — 2026년 최신 완벽 가이드](/images/posts/insurance-for-pregnancy-complication-2026.webp)
+
 ## 임신합병증보험 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

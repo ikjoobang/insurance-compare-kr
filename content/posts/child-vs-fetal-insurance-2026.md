@@ -42,6 +42,9 @@ toc: true
 
  [태아보험 가입시기 2026 가이드](/posts/fetal-insurance-timing-2026/)에서 최적 가입 시기를 확인하세요.
 
+
+![어린이보험 vs 태아보험 차이 2026 — 보장·보험료·가입시기 완벽 비교](/images/posts/child-vs-fetal-insurance-2026.webp)
+
 ## 태아보험만의 특별 보장 3가지
 
 어린이보험과 태아보험 차이를 만드는 핵심 특약 3가지를 상세히 비교합니다.

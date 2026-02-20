@@ -47,6 +47,9 @@ toc: true
 
  보험 전체 비교가 필요하다면 [보험 리모델링 가이드](/posts/insurance-remodeling-guide-2026/)를 참고하세요.
 
+
+![스타트업 대표 보험 설계 — 창업자 필수 보험 가이드](/images/posts/insurance-for-startup-founder-2026.webp)
+
 ## 창업자 필수 보험 4종 세트
 
 창업자 보험 관련 가장 많이 검색되는 질문에 대한 답변입니다. 2026년 2월 기준 보험개발원 데이터를 바탕으로 정확한 수치를 제공합니다.

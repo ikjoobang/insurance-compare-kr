@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![임베디드 보험 트렌드 분석 — 2026년 최신 완벽 가이드](/images/posts/insurance-embedded-product-2026.webp)
+
 ## 임베디드보험 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

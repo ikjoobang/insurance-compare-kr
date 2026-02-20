@@ -47,6 +47,9 @@ toc: true
 
  보험 전체 비교가 필요하다면 [보험 리모델링 가이드](/posts/insurance-remodeling-guide-2026/)를 참고하세요.
 
+
+![건강검진 보험 활용법 — 검진 결과별 보험금 청구 가이드](/images/posts/health-checkup-insurance-claim-2026.webp)
+
 ## 검진 항목별 보험금 청구 가능 여부
 
 건강검진 보험 관련 가장 많이 검색되는 질문에 대한 답변입니다. 2026년 2월 기준 보험개발원 데이터를 바탕으로 정확한 수치를 제공합니다.

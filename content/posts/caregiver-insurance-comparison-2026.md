@@ -39,6 +39,9 @@ toc: true
 
  [치매보험 비교 2026 완벽 가이드](/posts/dementia-insurance-comparison-2026/)에서 치매보험과의 차이점도 함께 확인하세요.
 
+
+![간병인보험 비교 2026 — 보장 범위·보험료·청구 조건 완벽 분석](/images/posts/caregiver-insurance-comparison-2026.webp)
+
 ## 2026년 간병인보험 비교 — 보험사별 상품 분석
 
 간병인보험 비교를 위해 주요 보험사 5곳의 상품을 분석했습니다. 2026년 2월 기준 최신 데이터입니다.

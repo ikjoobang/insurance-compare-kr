@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![손해율이란 보험료와의 관계 — 2026년 최신 완벽 가이드](/images/posts/insurance-loss-ratio-guide-2026.webp)
+
 ## 손해율 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

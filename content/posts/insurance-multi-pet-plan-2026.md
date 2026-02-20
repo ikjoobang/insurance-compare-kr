@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![다견 다묘 펫보험 비교 — 2026년 최신 완벽 가이드](/images/posts/insurance-multi-pet-plan-2026.webp)
+
 ## 펫보험 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

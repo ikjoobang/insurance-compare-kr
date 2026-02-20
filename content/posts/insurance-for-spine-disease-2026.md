@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![척추질환 보험 가입 가이드 — 2026년 최신 완벽 가이드](/images/posts/insurance-for-spine-disease-2026.webp)
+
 ## 척추질환보험 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

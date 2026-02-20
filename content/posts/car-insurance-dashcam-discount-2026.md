@@ -47,6 +47,9 @@ toc: true
 
  보험 전체 비교가 필요하다면 [보험 리모델링 가이드](/posts/insurance-remodeling-guide-2026/)를 참고하세요.
 
+
+![블랙박스·하이패스 보험 할인 — 자동차보험 할인 최대 활용법](/images/posts/car-insurance-dashcam-discount-2026.webp)
+
 ## 자동차보험 할인 항목 10가지 총정리
 
 보험 할인 관련 가장 많이 검색되는 질문에 대한 답변입니다. 2026년 2월 기준 보험개발원 데이터를 바탕으로 정확한 수치를 제공합니다.

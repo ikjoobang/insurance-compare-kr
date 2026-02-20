@@ -30,6 +30,9 @@ toc: true
 
 ---
 
+
+![건강검진 보험 적용 범위 — 2026년 최신 완벽 가이드](/images/posts/insurance-health-checkup-2026.webp)
+
 ## 건강검진보험 비교 — 2026년 주요 보험사별 상세 비교표
 
 | 구분 | A보험사 | B보험사 | C보험사 |

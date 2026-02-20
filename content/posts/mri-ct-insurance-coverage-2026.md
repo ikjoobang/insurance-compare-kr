@@ -41,6 +41,9 @@ MRI CT 보험 적용의 핵심 팁: 검사 전에 담당 의사에게 "이 MRI�
 
  [실비보험 자기부담금 줄이는법 2026](/posts/silbi-reduce-copay-tips-2026/)에서 자기부담금 절약 전략을 확인하세요.
 
+
+![MRI CT 보험 적용 가이드 2026 — 급여 vs 비급여 차이와 보험 청구법](/images/posts/mri-ct-insurance-coverage-2026.webp)
+
 ## MRI CT 실손보험 청구 방법 — 급여 vs 비급여 환급 차이
 
 MRI CT 보험 적용 후 실손보험으로 청구할 때, 급여와 비급여에 따라 환급 금액이 달라집니다.

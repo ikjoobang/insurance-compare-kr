@@ -38,6 +38,9 @@ toc: true
 
 암 치료 비용에 관한 기본 용어가 헷갈린다면 [보험 용어 사전 2026](/posts/insurance-terms-dictionary-2026/)을 먼저 확인하세요.
 
+
+![암치료비 실제 비용 2026 — 보장 범위·보험료·가입 조건 완벽 분석](/images/posts/cancer-treatment-cost-reality-2026.webp)
+
 ## 2026년 암 치료 비용 보험사별 비교표 TOP5
 
 암 치료 비용을 주요 보험사 5곳 기준으로 비교 분석했습니다. 보험개발원 2026년 2월 공시 데이터 기준입니다.

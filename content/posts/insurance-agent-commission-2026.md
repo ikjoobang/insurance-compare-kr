@@ -40,6 +40,9 @@ toc: true
 
  [보험 교체 경고 가이드 2026](/posts/insurance-replacement-warning-2026/)에서 불필요한 보험 교체의 위험성을 확인하세요.
 
+
+![보험설계사 수수료 구조 2026 — 몰래 떼가는 수수료의 진실](/images/posts/insurance-agent-commission-2026.webp)
+
 ## 다이렉트 보험 vs 설계사 보험 — 보험료 차이의 비밀
 
 보험설계사 수수료 구조를 알면 다이렉트 보험이 왜 저렴한지 이해됩니다.
