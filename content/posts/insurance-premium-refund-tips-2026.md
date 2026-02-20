@@ -3,7 +3,7 @@ title: "보험료 환급 받는 방법 — 숨은 보험료 돌려받기 5가지
 description: "보험료 환급 방법 5가지 총정리. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-12T21:08:00+09:00
 lastmod: 2026-02-12T21:08:00+09:00
-draft: true
+draft: false
 categories:
  - "보험비교"
 tags:

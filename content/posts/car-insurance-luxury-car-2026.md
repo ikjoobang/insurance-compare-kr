@@ -3,7 +3,7 @@ title: "수입차 보험료 비교 — 벤츠·BMW·아우디 자동차보험 �
 description: "수입차 자동차보험료 비교 분석. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-02T15:34:00+09:00
 lastmod: 2026-02-02T15:34:00+09:00
-draft: true
+draft: false
 categories:
  - "보험비교"
 tags:

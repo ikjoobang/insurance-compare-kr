@@ -3,7 +3,7 @@ title: "임플란트 보험금 청구 방법 — 치과 보험 활용 전략 완
 description: "임플란트 보험금 청구 방법 총정리. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-03T16:54:00+09:00
 lastmod: 2026-02-03T16:54:00+09:00
-draft: true
+draft: false
 categories:
  - "보험비교"
 tags:

@@ -3,7 +3,7 @@ title: "소액암 보장 가이드 — 소액암 진단금 제대로 받는 법 
 description: "소액암 보장 제대로 받는 법 가이드. 2026년 최신 비교표와 전문가 추천 포함. 지금 확인하세요."
 date: 2026-02-01T11:28:00+09:00
 lastmod: 2026-02-01T11:28:00+09:00
-draft: true
+draft: false
 categories:
  - "보험비교"
 tags:

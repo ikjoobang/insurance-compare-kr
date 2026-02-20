@@ -3,7 +3,7 @@ title: "AI 언더라이팅 보험 심사 혁신 — 2026년 최신 완벽 가이
 description: "AI언더라이팅 AI 보험 심사 2026년 최신 비교 분석. 전문가가 추천하는 AI언더라이팅 가입 방법과 주의사항을 확인하세요."
 date: 2026-02-05T12:55:00+09:00
 lastmod: 2026-02-05T12:55:00+09:00
-draft: true
+draft: false
 categories: ["보험비교"]
 tags: ["AI언더라이팅", "AI 보험 심사", "AI Underwriting", "2026AI언더라이팅", "보험비교"]
 keywords: ["AI언더라이팅 비교", "AI 보험 심사 추천", "AI언더라이팅 가입방법"]
