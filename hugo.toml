@@ -1,5 +1,6 @@
 baseURL = "https://insurankr.com/"
 languageCode = "ko-kr"
+disableKinds = ["sitemap"]
 title = "보험비교 전문가 — 2026 보험 완전정복"
 theme = "xivix-insurance"
 
@@ -52,3 +53,4 @@ theme = "xivix-insurance"
   tag = "tags"
 
 # AdSense verified 2026-02-15
+
